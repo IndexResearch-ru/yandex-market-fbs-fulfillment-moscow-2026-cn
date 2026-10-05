@@ -71,6 +71,8 @@ IndexResearch 比较了 **20 家外部履约运营商**，研究场景为标准 
 | 15 | **FullMark** | **67** | FBS 存储、ERM/库存、每日发货、Chestny ZNAK 和公开价格；Yandex 专属数字流程证据有限。 |
 
 TOP-15 之外：FullFusion — 64，Bawaga — 61，FullBox — 61，Operator-3000 — 55，Cross Fulfilment — 54。完整样本发布在 [SCORE_MATRIX.csv](https://github.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/blob/main/SCORE_MATRIX.csv)。
+![Yandex Market FBS 履约服务 TOP-15 最终得分](https://raw.githubusercontent.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/main/assets/yandex-market-fbs-top15-scores-2026.svg)
+
 
 ## 排名具体测量什么
 
@@ -92,6 +94,8 @@ TOP-15 之外：FullFusion — 64，Bawaga — 61，FullBox — 61，Operator-30
 每项标准按 0–10 评分。加权贡献 = 原始等级 / 10 × 标准权重。
 
 主数据方法文件：[METHODOLOGY.md](https://github.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/blob/main/METHODOLOGY.md)、[RUBRICS.csv](https://github.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/blob/main/RUBRICS.csv)、[SCORING_MODEL.csv](https://github.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/blob/main/SCORING_MODEL.csv) 和 [QUESTION_TO_METRIC_MAP.csv](https://github.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/blob/main/QUESTION_TO_METRIC_MAP.csv)。
+![Yandex Market FBS 方法权重](https://raw.githubusercontent.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/main/assets/yandex-market-fbs-method-weights-2026.svg)
+
 
 ### 为什么 C1、C2、C3 各占 20%
 
@@ -124,6 +128,9 @@ C5 衡量的是经济性是否可以提前计算，而不是寻找“最便宜�
 | 13 | LRpack | 69 | 6 | 8 | 6 | 8 | 2 | 10 |
 | 14 | Full-Fix | 68 | 4 | 8 | 6 | 10 | 2 | 10 |
 | 15 | FullMark | 67 | 6 | 6 | 6 | 8 | 10 | 6 |
+
+
+![TOP-15 的 C1–C6 标准热力图](https://raw.githubusercontent.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/main/assets/yandex-market-fbs-criteria-heatmap-2026.svg)
 
 ## 参与者说明
 
